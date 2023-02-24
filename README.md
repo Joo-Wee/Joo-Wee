@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Joo-Wee
-- 👀 I’m interested in ...
+- 👀 I’m interested in Web3
 - 🌱 I’m currently learning web development and C++
-- 💞️ I’m looking to collaborate on a small project on compilers and operating systems
+- 💞️ I’m looking to collaborate on a small project on compilers, operating systems and the blockchain environment
 - 📫 How to reach me ...
 
 <!---
